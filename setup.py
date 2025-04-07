@@ -18,8 +18,6 @@ setup (
     long_description_content_type = "text/markdown",
     author = author_names,
     author_email = author_emails,
-    url = 'https://github.com/greenmay99',
-    install_requires = ['pandas', 'numpy', 'polars',
-                      'seaborn', 'scipy', 'matplotlib'],
+    url = 'https://github.com/greenmay99/semovi_libreria',
     license = 'MIT' #Tipo de licencia
 )
