@@ -1,0 +1,1 @@
+from smv_prueba1 import suma
