@@ -11,7 +11,7 @@ author_emails = ", ".join(author["email"] for author in AUTHORS)
 
 setup (
     name = 'smv-prueba1',  #para el import
-    version ='0.0.1', #se va cambiando según se incluyan cambios
+    version ='0.0.2', #se va cambiando según se incluyan cambios
     packages = ['smv_prueba1'], #Debe coincidir con el nombre de la carpeta
     description = 'libreia para sumar dos numeros',
     long_description = open('README.md', encoding='utf-8').read(),
