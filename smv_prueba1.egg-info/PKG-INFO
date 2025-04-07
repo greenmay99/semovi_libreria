@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: smv-prueba1
+Version: 0.0.1
+Summary: libreia para sumar dos numeros
+Home-page: https://github.com/greenmay99
+Author: may, juan
+Author-email: maydaymm66@yahoo.com, juan@example.com
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: polars
+Requires-Dist: seaborn
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
+
+Esta es una ibreria de suma como práctica 
+para publicar librerias en PyPI
+
+Explicar todo lo necesario para que cualquiera conozca como puede usar 
+la libreria
