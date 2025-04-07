@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+smv_prueba1/__init__.py
+smv_prueba1/funciones.py
+smv_prueba1.egg-info/PKG-INFO
+smv_prueba1.egg-info/SOURCES.txt
+smv_prueba1.egg-info/dependency_links.txt
+smv_prueba1.egg-info/top_level.txt
