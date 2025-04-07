@@ -1,1 +1,1 @@
-from smv_prueba1 import suma
+from .funciones import suma
